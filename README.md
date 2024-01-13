@@ -1,16 +1,11 @@
 # sql_excel_spydiagram_test1
 
-A new Flutter project.
+This project is an export of data from Excel docummnets to databases
 
 ## Getting Started
 
-This project is a starting point for a Flutter application.
+You can change the code as you want or your necesity, the changes that you need to do is 
+in the carpet lib/src/data, this carpet contend the model o the data that will be sent to your server
+and have the repositories, also if you need more functions like delete, get, push, etc. In the carpet
+lib/src/view/functions are the methods importans for do this actions, do the changes that you want.
 
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
